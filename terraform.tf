@@ -20,7 +20,7 @@ provider "aws" {
 }
 resource "aws_s3_bucket" "s3_bucket" {
 
-   bucket = "my-tf-test-bucket20210816"
+   bucket = "my-tf-test-bucket202108161"
 
    acl    = "private"
 
